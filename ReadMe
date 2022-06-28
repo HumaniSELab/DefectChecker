@@ -9,3 +9,6 @@ The environment of DefectChecker:
 2. EVM Version: 1.8.14
 3. Solidity version: 0.4.25
 To be notice, the command on the L35 of Main.java and L63 of Utils.java might need change according to users' local environment
+
+
+More information: https://www.monash.edu/it/humanise-lab/projects/completed-projects/defectchecker 
